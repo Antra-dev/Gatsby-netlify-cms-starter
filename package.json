@@ -35,7 +35,7 @@
     "gatsby"
   ],
   "license": "MIT",
-  "main": "n/a",
+  "main": "index.js",
   "scripts": {
     "clean": "gatsby clean",
     "start": "npm run develop",
